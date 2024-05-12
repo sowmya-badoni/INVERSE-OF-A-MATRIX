@@ -36,7 +36,7 @@ result=np.linalg.inv(matrix)
 print(result)
 
 ## Output:
-![image](https://github.com/sowmya-badoni/INVERSE-OF-A-MATRIX/assets/152136324/727f90bd-e1e5-4190-91f3-7fde2e0274d9)
+![Screenshot 2024-05-12 173825](https://github.com/sowmya-badoni/INVERSE-OF-A-MATRIX/assets/152136324/262e6756-53d1-403a-8b7d-f3d7fe3a026b)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
